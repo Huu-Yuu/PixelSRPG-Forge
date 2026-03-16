@@ -1,5 +1,15 @@
 # PixelSRPG-Forge | 像素SRPG工坊
 
+## 🎵 高品质音效素材推荐
+
+**地址：** [https://gdc.sonniss.com/](https://gdc.sonniss.com/)
+
+**说明：** 高品质音效素材，大小是7.4G，由厂商赠送，无需署名，完全免费使用，非常适合独立开发者。
+
+**Address:** [https://gdc.sonniss.com/](https://gdc.sonniss.com/)
+
+**Description:** High-quality sound effects, 7.4G in size, gifted by the manufacturer, no attribution required, completely free to use, perfect for indie developers.
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/Huu-Yuu/PixelSRPG-Forge.svg)](https://github.com/Huu-Yuu/PixelSRPG-Forge/stargazers)
 
@@ -49,6 +59,7 @@ PixelSRPG-Forge/
 ├── Sound_Effects_音效音乐/  # UI, combat and ambient sounds
 ├── Terrain_地形地块/        # Terrain tiles (grass, water, mountains, etc.)
 ├── UI_Elements_界面元素/    # Buttons, frames, health bars, menus
+├── other_其他素材3万多张/   # Additional 30,000+ pixel art assets
 ├── Examples_使用示例/       # Usage examples and tutorials
 ├── Game_Assets_游戏素材/    # Game-specific asset collections
 │   └── StardewValley/      # Stardew Valley assets (reference to separate repo)
@@ -169,6 +180,7 @@ Special thanks to all the pixel artists and contributors who made this collectio
 ├── Sound_Effects_音效音乐/  # 界面、战斗和环境音效素材
 ├── Terrain_地形地块/        # 地形地块素材（草地、水域、山脉等）
 ├── UI_Elements_界面元素/    # 按钮、边框、血条等UI素材
+├── other_其他素材3万多张/   # 其他3万多张像素素材
 ├── Examples_使用示例/       # 素材使用教程和示例项目
 ├── Game_Assets_游戏素材/    # 特定游戏的素材集合
 │   └── StardewValley/      # 星露谷物语素材（引用独立仓库）
